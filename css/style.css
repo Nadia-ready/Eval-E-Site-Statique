@@ -1,0 +1,31 @@
+@import 'header.css';
+@import 'nav.css';
+@import 'section.css';
+@import 'footer.css';
+
+/* racine html*/
+:root {
+    --bg:#fae41c;
+
+}
+
+body {
+    margin: 0;
+    padding:0;
+    background: #fae41c;
+    font-family: sans-serif;
+    line-height: 30px;
+    color: black;
+}
+
+ul {
+    list-style: none;
+}
+
+a {
+    color: black;
+}
+
+a:hover {
+    color:#aaa;
+}

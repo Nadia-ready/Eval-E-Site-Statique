@@ -1,0 +1,21 @@
+header.row {
+    height: 250px;
+}
+
+header {
+    position: sticky;
+    top: o;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background: var(--bg);
+    width: 100%;
+    height: 200px;
+    box-shadow:1px 1px 5px rgb(44, 43, 42);
+}
+
+#logo img {
+    width: 150px;
+    height: 150px;
+    padding: 10px;
+}
