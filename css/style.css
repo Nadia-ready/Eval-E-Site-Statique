@@ -1,6 +1,6 @@
 @import 'header.css';
 @import 'nav.css';
-@import 'section.css';
+@import 'sections.css';
 @import 'footer.css';
 
 /* racine html*/
@@ -18,9 +18,6 @@ body {
     color: black;
 }
 
-ul {
-    list-style: none;
-}
 
 a {
     color: black;
