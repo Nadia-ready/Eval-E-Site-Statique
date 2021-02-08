@@ -1,1 +1,11 @@
-/* 24.27 miniute replay*/
+#PhotoPrésentation{
+    height: 400px;
+    width:600px;
+    text-align: center;
+}
+
+section {
+    font-size: 1.5rem;
+    margin: 2rem;
+}
+
